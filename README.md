@@ -17,7 +17,7 @@ You can also double click the file after downloading
 (if you have the scratch editor installed).
 
 #### Laslty, please fill out the demographic survey if you haven't:  
-[https://forms.gle/oEWUBqzPyPiX7UnZ6] (https://forms.gle/oEWUBqzPyPiX7UnZ6) 
+https://forms.gle/oEWUBqzPyPiX7UnZ6
 
 Mahalo
 Manu
