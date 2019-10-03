@@ -11,4 +11,6 @@ Instructions for Class today:
 3. start a new file.  
 4. Create your own character who moves and says hi.  
 5. Create another character.  
-6. Have it move and respond.
+6. Have it move and respond
+
+#### Student projects are  living in the student projects folder - they are explorations of movement in Scratch 
